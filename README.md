@@ -20,7 +20,7 @@ Once the project is available in your local environment run the below install co
 
 The below python test scripts can be run before running the applications : 
 `python -m unittest discover -s test -p converter_test.py` <br />
-`python -m unittest discover -s test -p crawler_test.py`
+`python -m unittest discover -s test -p crawler_test.py`<br />
 
 ## Running your App
 
