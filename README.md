@@ -11,7 +11,7 @@ Before starting up make sure python v2.7 is installed in your machine. Once that
 
 ## Pre-requisites
 
-Once the project is available in your local environment run the below install commands :
+Once the project is available in your local environment run the below install commands : <br />
 `pip install bs4` <br />
 `pip install pyyaml` <br />
 `pip install CurrencyConverter`
