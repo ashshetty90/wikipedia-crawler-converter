@@ -1,0 +1,4 @@
+wikipedia_url: "https://en.wikipedia.org/wiki/Tesla,_Inc."
+user_agent: "Chrome/72.0.3626.109"
+class: "infobox vcard"
+parser: "html.parser"
