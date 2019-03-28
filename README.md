@@ -12,14 +12,14 @@ Before starting up make sure python v2.7 is installed in your machine. Once that
 ## Pre-requisites
 
 Once the project is available in your local environment run the below install commands :
-`pip install bs4`
-`pip install pyyaml`
+`pip install bs4`\n
+`pip install pyyaml`\n
 `pip install CurrencyConverter`
 
 ## Running Test Cases
 
 The below python test scripts can be run before running the applications : 
-`python -m unittest discover -s test -p converter_test.py`
+`python -m unittest discover -s test -p converter_test.py`\n
 `python -m unittest discover -s test -p crawler_test.py`
 
 ## Running your App
