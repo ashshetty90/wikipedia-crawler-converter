@@ -28,5 +28,5 @@ Once all the test cases have passed run the below command to run the application
 
 `python app.py`
 
-## Limitations
-This application does scrapping only for the Tesla wikipedia page and does only USD to DKK conversion.
+## What could be done better?
+This application does scrapping only for the Tesla wikipedia page and does only USD to DKK conversion.It can be made more generic to convert from any currency to any currency.
