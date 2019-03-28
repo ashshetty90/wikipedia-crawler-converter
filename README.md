@@ -18,7 +18,7 @@ Once the project is available in your local environment run the below install co
 
 ## Running Test Cases
 
-The below python test scripts can be run before running the applications : 
+The below python test scripts can be run before running the applications : <br />
 `python -m unittest discover -s test -p converter_test.py` <br />
 `python -m unittest discover -s test -p crawler_test.py`<br />
 
